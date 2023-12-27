@@ -1,2 +1,2 @@
 # VAE_for_Prediction
-Privacy-preserving Machine Learning Prediction via a Variational Autoencoder
+Source code for paper:"Privacy-preserving Machine Learning Prediction via a Variational Autoencoder"
